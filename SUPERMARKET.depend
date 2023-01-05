@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672889684 source:d:\informatika\semester 3\struktur data\tubes\supermarket\main.cpp
+	"supermarket.h"
+
+1672889506 source:d:\informatika\semester 3\struktur data\tubes\supermarket\supermarket.cpp
+	"supermarket.h"
+
+1672886688 d:\informatika\semester 3\struktur data\tubes\supermarket\supermarket.h
+	<iostream>
+
